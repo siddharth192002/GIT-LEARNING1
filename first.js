@@ -1,3 +1,4 @@
+
 const button ="added a button";
 console.log(button);
 
@@ -10,4 +11,11 @@ console.log(footer);
 =======
 const payement = "integerated payement"
 console.log(payement);
+<<<<<<< HEAD
 >>>>>>> 877a00a (payement added)
+=======
+
+
+const upi ="integeated the upi";
+console.log(upi);
+>>>>>>> c619611 (upi added)
